@@ -1,4 +1,5 @@
 layout_spectrum: 1
+typography_spectrum: 0.1526138
 color:
   saturation: 0.5261383
   lightness: 0.5961214
@@ -9,6 +10,5 @@ color:
     - '#8C8575'
     - '#F9E9B8'
     - '#605C50'
-  rhythmicContrast: 0.4519393
-typography_spectrum: 0.1526138
+  rhythmicContrast: 0.5337268
 name: Human Living
