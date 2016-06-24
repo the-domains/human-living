@@ -1,16 +1,14 @@
-layout_spectrum: 1
-typography_spectrum: 0.1526138
 color:
-  saturation: 0.5261383
-  lightness: 0.5961214
-  brandStrength: 0.4915683
   brandColors:
     - '#A0A098'
     - '#191B16'
     - '#8C8575'
     - '#F9E9B8'
     - '#605C50'
+  brandStrength: 0.4915683
+  lightness: 0.5961214
   rhythmicContrast: 0.5337268
+  saturation: 0.5261383
+layout_spectrum: 1
 name: Human Living
-author:
-  name: Hanni
+typography_spectrum: 0.1526138
