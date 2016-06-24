@@ -2,11 +2,9 @@
 description: >-
   I used to fly a lot and I absolutely loved it, even if the waiting to be
   boarded might have been tedious and sometimes you had someone strange sitting
-  next to you, I always made sure to book a window seat. It is just the best
-  thing on flight to be able to look out of the window and see the world from
-  above.
-dateModified: '2016-06-24T20:39:40.593Z'
-datePublished: '2016-06-24T20:39:49.126Z'
+  next to you, I always made sure to book a window seat.
+dateModified: '2016-06-24T20:56:18.257Z'
+datePublished: '2016-06-24T20:56:22.023Z'
 title: Once in a Blue Moon
 author: []
 isBasedOnUrl: >-
@@ -23,6 +21,10 @@ _type: MediaObject
 
 # Once in a Blue Moon
 
-I used to fly a lot and I absolutely loved it, even if the waiting to be boarded might have been tedious and sometimes you had someone strange sitting next to you, I always made sure to book a window seat. It is just the best thing on flight to be able to look out of the window and see the world from above.
+I used to fly a lot and I absolutely loved it, even if the waiting to be boarded might have been tedious and sometimes you had someone strange sitting next to you, I always made sure to book a window seat.
 
-Today, I'm not able to fly that often anymore and I miss it.
+It is just the best thing on flights to be able to look out of the window and see the world from above.
+
+It lets me marvel at how lucky we are that we have such a beautiful planet. I watched sunrises, sunsets, days and nights and couldn't say I have a favourite. Maybe flying through some clouds and seeing the sun just breaking through the horizon. Or maybe first watching the sun set and then how the full moon climbs over the sky.
+
+Today, I'm not able to fly that often anymore and I miss it dearly, but I love the memory and all the photos I took on these flights. It always makes me smile.
