@@ -1,7 +1,12 @@
 ---
-description: ''
-dateModified: '2016-06-24T20:36:56.634Z'
-datePublished: '2016-06-24T20:37:00.733Z'
+description: >-
+  I used to fly a lot and I absolutely loved it, even if the waiting to be
+  boarded might have been tedious and sometimes you had someone strange sitting
+  next to you, I always made sure to book a window seat. It is just the best
+  thing on flight to be able to look out of the window and see the world from
+  above.
+dateModified: '2016-06-24T20:39:40.593Z'
+datePublished: '2016-06-24T20:39:49.126Z'
 title: Once in a Blue Moon
 author: []
 isBasedOnUrl: >-
