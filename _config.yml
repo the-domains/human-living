@@ -12,7 +12,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.1526138
 color:
   rhythmicContrast: 0.8411500926595181
   brandStrength: 0.2815852137282491
@@ -24,5 +23,6 @@ color:
     - '#424242'
     - '#8E001C'
   lightness: 0.7583833611570299
-layout_spectrum: 0.6691729
+typography_spectrum: 0.1526138
+layout_spectrum: 0.5263158
 name: Human Living
