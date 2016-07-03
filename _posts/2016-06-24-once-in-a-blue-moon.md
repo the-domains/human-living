@@ -3,8 +3,8 @@ description: >-
   I used to fly a lot and I absolutely loved it, even if the waiting to be
   boarded might have been tedious and sometimes you had someone strange sitting
   next to you, I always made sure to book a window seat.
-dateModified: '2016-06-24T20:56:18.257Z'
-datePublished: '2016-06-24T20:56:22.023Z'
+dateModified: '2016-07-03T20:09:27.939Z'
+datePublished: '2016-07-03T20:09:35.566Z'
 title: Once in a Blue Moon
 author: []
 isBasedOnUrl: >-
